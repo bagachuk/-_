@@ -55,9 +55,11 @@
 		.header-action__link 
 		{
 			text-decoration:none;
-			height: 20px;
+			height: 30px;
 			background-color:#f80000;
 			color:white;
+ 
+
 		}
 			
 		.header-action__link:hover
@@ -85,10 +87,12 @@
             padding: 10px;
 		}
 		
+
 		form
 		{
-			display: flex;
-			justify-content: center;
+			display: inline;
+			justify-content: inital;
+                        
 		}
 		
 		.footer
@@ -101,4 +105,5 @@
 			background: black;
 			
 		}
+
 		
